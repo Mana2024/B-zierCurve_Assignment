@@ -1,4 +1,4 @@
-# B-zierCurve_Assignment
+# BezierCurve_Assignment
 Bézier Curve Math & Physics
 Bézier Curve
 
